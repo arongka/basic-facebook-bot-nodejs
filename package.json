@@ -1,0 +1,16 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "Chatbot from scratch using nodejs\r tutorial link:https://www.youtube.com/watch?v=bUwiKFTvmDQ&list=PLcLMSci1ZoPuCVaVowJizimDmziAfiuxx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
