@@ -14,7 +14,7 @@ app.use(bodyParser.json())
 
 //Routes
 app.get('/', function(req, res){
-	res.send("Hi, I'm chatbot")
+	res.send("Hi, I'm chatbot. I am built using nodejs..! :) ")
 })
 
 //Facebook
